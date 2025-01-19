@@ -1,6 +1,6 @@
 ---
 
-# PetPulse - Online Pet Care Center  
+## PetPulse - Online Pet Care Center  
 
 **PetPulse** is an online web application designed to simplify and enhance the experience of managing pet care services. The platform allows pet owners to book appointments, purchase pet products, and access a range of pet care services. Developed using **HTML**, **CSS**, **JavaScript**, **PHP**, and **SQL**, the application runs on **XAMPP** and provides a seamless and user-friendly experience.  
 
